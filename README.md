@@ -1,3 +1,2 @@
 # Lhd_ShowTime
-Demo
-test
+我是readme
